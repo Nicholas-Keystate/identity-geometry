@@ -16,6 +16,7 @@ mistakes a working label for a coinage.
 | evaluation point | provisional | de-facto-axiom collapse survived (unevaluated point = held on standing) | evaluation point · coordinate |
 | finding field / standing tensor | gestating | strict tensor fails (non-field codomain); sheaf reading deeper but heavier | finding field · no-noun (name the operations only) |
 | continuity authority | typed, pre-coinage | the role is law-bearing (ends vacancies; conclave not camerlengo); the word is the owner's to mint | — |
+| palintone / palintonic | **RULED** (2026-08-11) | three sittings (paradox rejected as unjust — no dissolution awaited; dialectic rejected — no synthesis; named against its ruled dual, the antinomy) | — (Heraclitus B51 provenance: palintonos harmonie; harmos = the carpenter's joint) |
 | the science's own name | settled by use | "identity geometry" has statics (mint structure) and dynamics (perturbation/return) — the name earned both halves | — |
 
 Renaming any of these is an ordinary succession in this ledger:

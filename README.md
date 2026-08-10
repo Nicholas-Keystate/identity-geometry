@@ -35,6 +35,7 @@ refuses to answer is exactly the domain of the tier above it.
 | File | What it holds |
 |---|---|
 | `MOTIVATION.md` | Why this science — organizational mapping as informal identity geometry; the ADICO anchor; the confessed grade |
+| `kernel/PALINTONE.md` | The science's root tension — the palintone of identity, its three movements, and its antinomy dual |
 | `kernel/objects.md` | The six kinds, each with its tested pressure points |
 | `kernel/composition.md` | The seam-composition law and the spine figure |
 | `kernel/evaluation.md` | The deterministic-evaluation law; proposer/checker seam; the binding's era-graded citation |
