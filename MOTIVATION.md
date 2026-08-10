@@ -42,6 +42,26 @@ not commit them — evaluation stayed human, drift stayed
 unconvictable, and the Or-else stayed exactly as strong as
 whoever held it.
 
+The anchor deepens with Ostrom's seven rule types (*Understanding
+Institutional Diversity*, 2005) — her classification of what
+institutional rules DO, which this kernel's consumers
+independently reinvented in full:
+
+| Ostrom's rule type | Governs | The committed form |
+|---|---|---|
+| position | what offices exist | identifier-as-office; seats; organ charters |
+| boundary | who may enter or exit positions | birth-committed membership; bearing |
+| choice | what actions a position may take | enumerated powers; covenant clauses; caretaker bounds |
+| aggregation | how joint decisions compose | threshold machinery; quorum contraction; the refusal law |
+| information | who may know what, when | disclosure postures; observation surfaces; the watcher plane |
+| payoff | sanctions and rewards | conviction machinery; standing consequences |
+| scope | what outcomes may be affected | the finding codomain; seam declarations |
+
+Her vocabulary for the drift is adopted here with citation:
+**rules-in-form vs rules-in-use** — the gap every mapping
+tradition knew and none could convict. Binding divergence is the
+rules-in-use gap made computable.
+
 The office lineage is older still: the corporation sole (an
 office as a legal person distinct from its occupant, so
 succession never interrupts identity) and sede-vacante law (the
@@ -49,6 +69,15 @@ interregnum governed by rules fixed before the vacancy) are
 centuries of jurisprudence about positions-under-law — enforced,
 always, by courts and convention rather than by anything a
 stranger could check.
+
+And one warning is adopted from the same source, against
+ourselves: Ostrom spent her last decade insisting there are **no
+institutional panaceas** — no blueprints, only design principles
+instantiated locally, each instantiation answerable to its own
+conditions. That is the two-move discipline arriving from field
+data, and it bounds this document's claim: the kernel types the
+objects institutions are made of; it must never claim to
+prescribe the institutions.
 
 ## What was always missing
 
