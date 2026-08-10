@@ -1,10 +1,18 @@
-# The consumer register
+# The consumer register — open by construction
 
 The artifacts that instantiate this kernel, each with what it
 instantiates and where it lives. The kernel grows only on a
 consumer's need (the two-move discipline); this register is
 therefore also the kernel's complete justification — every object
 exists because something here needed it.
+
+**The register is open.** These four are the consumers that exist;
+they are not a roster of who may enter. Any artifact, community, or
+working group that commits predicates over identifiers — or needs
+to compare, chart, or sample them — instantiates this kernel by
+citing a pinned revision, with no admission act and no permission
+sought. A register that closed would contradict the science it
+serves: recognition here is later and bilateral, never a gate.
 
 ## 1. The Custos connectome
 
@@ -67,6 +75,32 @@ is the disposition of that standard's open primitive-closure
 question, pending its authority's ruling.
 
 - Location: Custos issue #74.
+
+## Prospective consumers (named, not enrolled)
+
+Communities whose existing work is already kernel-shaped, listed
+so the door they would enter by is visible — named here as
+prospects only; none has reviewed or adopted anything in this
+repository, and nothing below implies otherwise.
+
+- **ToIP governance working groups (Technology Stack / KSWG /
+  the governance-framework community).** ToIP's governance
+  frameworks are committed predicate-sets over identifiers by
+  another name, and its "profile" vocabulary is the ecosystem's
+  own word for what this kernel types as a binding. The governed
+  standard's roadmap already carries the sponsoring-conversation
+  item; when that conversation opens, this kernel is the
+  vocabulary half of the offer — the frameworks they already
+  write, typed so that conformance is computable.
+- **The carriage-encoding design round.** Chartered, not yet
+  convened; its decisions (clause denotation, shared predicates,
+  transfer form) are mint-language work — the round would be the
+  first consumer of the kernel's mint/denotation split in a
+  standards-track setting.
+- **Any second implementation of a governance evaluator.** The
+  first engine binding beyond the reference fold makes the
+  β-comparison machinery load-bearing for real; the corpus is
+  already waiting for it.
 
 ## Citation discipline
 
