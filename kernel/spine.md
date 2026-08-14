@@ -41,7 +41,7 @@ subtensor density — which slices are heard, not just which points.
   burden vs proof size vs trust surface), measurable in
   engineering units.
 
-## The gluing reading (conjectural, one falsifier from real)
+## The gluing reading (conjectural; its named falsifier was tried 2026-08-14 and passed — see below)
 
 Findings are computed per frame; an agreement law binds shared
 sheets ("the same committed triple on the same sheet must agree —
@@ -67,8 +67,9 @@ condition on overlaps, a global object defined by gluing:
 duplicities locally (choose branches), whether those resolutions
 themselves glue across a federation is a second-order obstruction
 problem — the both-lawful race sits exactly at that seam, and the
-composition tower may be cohomologically graded. Held behind the
-falsifier below.
+composition tower may be cohomologically graded. Its gate (the
+falsifier below) was discharged 2026-08-14; the conjecture now
+stands on its own merits, still unproven.
 
 ## The algebra check (honest failure + candidate repair)
 
@@ -82,11 +83,53 @@ thresholds evaluate as tropical polynomials (sum weights, compare,
 step). If that holds, contraction is semiring-multilinear over a
 proof-decorated tropical structure. CONJECTURE — unproven.
 
-## The falsifier (named, first in line)
+## The falsifier (tried 2026-08-14 — passes, with a side condition)
 
-**Is warranted transport functorial?** A→B→C must equal A→C with
-warranty composition, for the gluing reading and every
-tensor-flavored claim above to survive. If composition fails
-anywhere, the spine collapses to "indexed array with committed
-rules" — and this file says so in its next revision rather than
-softening the claim.
+**Is warranted transport functorial?** As first registered here:
+A→B→C must equal A→C with warranty composition, or the spine
+collapses to "indexed array with committed rules." Tried under a
+pre-registered protocol — gates, transport model, and scope law
+fixed and sealed before any trial code existed — against findings
+computed from live KERI event material (inception, interaction,
+uncommitted rotation, a duplicitous inception pair). The question
+had to be split first: functoriality (composition along one path
+is lawful) is not path-independence (all paths agree), and the
+falsifier as first written conflated them. The verdict binds to
+the first; the second was pre-registered as expected-false.
+
+**Result: composition holds** — identity, associativity, and
+stepwise-equals-composite across the committed rule grid — with
+one load-bearing side condition, found by probing the boundary:
+
+**Functoriality holds on exactly the non-promoting class of
+frame-change rules.** A rule that upgrades a value across a frame
+boundary ("pending arriving from there counts as affirmed here")
+breaks composition in every tested case, and is the only thing
+that does. Promotion is therefore not transport: an upgrading
+appraisal is a tier seam — the composition law's jurisdiction,
+where one tier's refusal becomes the next tier's question — never
+a warranty. Stated as arithmetic: grades are frame-relative, and
+the lawful composite grade transports the first leg's grade
+through the second leg's rule before taking the min; carrying raw
+grades across boundaries is exactly what promotion exploits.
+
+Subsidiary results, each at its own grade:
+
+- **Path-independence is FALSE and was never owed.** Two
+  warranted routes to the same target legitimately differ — a
+  pending leg caps its whole path. Transport has curvature; the
+  defect is measurable (the loop test returns it as a value, not
+  an error). Consequence: a finding must carry its path — the
+  warranty chain is information, not packaging.
+- **The tropical order above omits self-convicted.** The trial
+  placed it below defeated (the proof-carrying negative is the
+  strongest negative) and the algebra held. This section owes
+  that placement a permanent home or a refutation.
+- **Refusal stayed out of scope by law**, not convenience: a
+  refusal-aborted composite is undefined, not unequal — the seam
+  event aborts the combination it never joins.
+
+The gluing reading and the tensor candidate above accordingly
+survive — conditional on the side condition being kept as law
+wherever this spine is consumed: no committed frame-change rule
+may promote.
