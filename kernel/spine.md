@@ -98,20 +98,61 @@ falsifier as first written conflated them. The verdict binds to
 the first; the second was pre-registered as expected-false.
 
 **Result: composition holds** — identity, associativity, and
-stepwise-equals-composite across the committed rule grid — with
-one load-bearing side condition, found by probing the boundary:
+stepwise-equals-composite across the committed rule grid. The
+boundary of that result was then corrected by adversarial review
+(2026-08-16: five independent legs, including a cross-vendor
+reviewer and an exhaustive enumeration over the full rule space),
+which found the side condition as first published here too narrow:
 
-**Functoriality holds on exactly the non-promoting class of
-frame-change rules.** A rule that upgrades a value across a frame
-boundary ("pending arriving from there counts as affirmed here")
-breaks composition in every tested case, and is the only thing
-that does. Promotion is therefore not transport: an upgrading
-appraisal is a tier seam — the composition law's jurisdiction,
-where one tier's refusal becomes the next tier's question — never
-a warranty. Stated as arithmetic: grades are frame-relative, and
-the lawful composite grade transports the first leg's grade
-through the second leg's rule before taking the min; carrying raw
-grades across boundaries is exactly what promotion exploits.
+**The naive composite is lawful for exactly the cap rules.** The
+first statement — "functoriality holds on exactly the
+non-promoting class" — was an artifact of the trial's committed
+grid, which contained only cap rules (pass-through capped at a
+fixed level). The corrected statement, proven as an iff: under
+naive weakest-member composition, a second-leg rule is safe
+against every first leg exactly when it is a cap rule. Non-cap
+rules break naive composition whether they promote or demote — a
+one-notch skeptical discount breaks it as surely as an upgrade.
+Every promoting second leg fails somewhere, but promotion is a
+proper subclass of the breaking class.
+
+**The repaired arithmetic stands, and is classical.** Grades are
+frame-relative, and the lawful composite grade transports the
+first leg's grade through the second leg's rule before taking the
+min. On any totally ordered codomain this is proven (monotone
+maps of a chain preserve binary minima), associative, and
+commutes with quorum contraction. It is not new mathematics: it
+is the semidirect-product — equivalently min-plus affine —
+composition law, which this spine cites rather than claims. Two
+conditions ride with it: grades normalize to their rule's ceiling
+(restoring strict identities; unnormalized warranty pairs form
+only a semicategory), and on codomains with incomparable values
+the required hypothesis is meet-preservation, not monotonicity.
+
+**"Promotion is not transport" is not a corollary of this
+algebra.** The value algebra cannot distinguish relay from
+adjudication — under the repaired law, promoting rules compose as
+lawfully as any other. What survives is committed architecture,
+kept as law wherever this spine is consumed: appraisal values are
+never rewritten in transit; every upgrade is a freshly computed
+finding at a new coordinate.
+
+**The successor statement, at candidate grade pending its own
+trial: transport splits into two sorts.** At the value sort,
+composition is the classical law above, and "inflationary" is a
+property of maps, not a deed. At the evidence sort, carriers can
+only drop evidence, never forge it; the sole lawful
+standing-increase is endorsement — a new signed recognition of a
+pre-existing subject by a party with standing, separable by
+construction (withdrawing it never destroys what it endorsed: an
+unwitnessed event still exists, merely without standing; a
+receipt only adds). The residual power of a carrier is omission —
+forwarding a finding while withholding its defeater — which is
+adjudication performed without standing, made attributable by
+composition commitments over the full evidence bundle. Any lawful
+promotion is frame-local: the endorser's own evaluation, of its
+own new evidence, at its own coordinate, granting affordances
+only its own law attaches.
 
 Subsidiary results, each at its own grade:
 
@@ -130,6 +171,12 @@ Subsidiary results, each at its own grade:
   event aborts the combination it never joins.
 
 The gluing reading and the tensor candidate above accordingly
-survive — conditional on the side condition being kept as law
-wherever this spine is consumed: no committed frame-change rule
-may promote.
+survive — conditional on the corrected law being kept wherever
+this spine is consumed: the naive composite only under cap
+rules; the repaired composite with normalized grades otherwise;
+and no rewriting of appraisal values in transit — upgrades are
+new findings, never transported ones.
+
+Confession of record: the boundary as first published hardened
+from an exploratory finding without its own gate; the
+adversarial review existed to catch exactly that, and did.
